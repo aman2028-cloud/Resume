@@ -10,7 +10,7 @@ This project automates resume screening, helping recruiters save time and focus 
 
 ---
 
-🔗 [Click here to try the app](https://your-deployed-app-link.com)  
+🔗 [Click here to try the app](https://resume-scanner-app.streamlit.app.com)  
 
 ---
 
